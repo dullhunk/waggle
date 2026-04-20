@@ -1,0 +1,33 @@
+---
+title: "The Wednesday Waggle"
+subtitle: For opportunities in Computing and AI
+---
+
+The Wednesday Waggle is an email newsleter published every Wedneseday [during term time](https://www.manchester.ac.uk/about/key-dates/) summarising opportunities in Computing and AI for:
+
+* all undergraduate (Bachelors) in Computer Science at the University of Manchester, circa 1000+ students
+* all postgraduate taught (Masters) students in Computer Science at the University of Manchester, circa 240+ students
+
+.. , with occasional newsletters going out during non-teaching periods.
+
+If there is a career related event or a job opportunity you'd like to tell other students about via the next Waggle, tell us about it and we'll pass it on [bit.ly/waggle-it](https://bit.ly/waggle-it).[^1]
+
+![Wednesday Waggle Bee artwork by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)](Wednesday_Waggle.png)
+
+
+## Not studying CS? Add yourself to the mailing list {#waggle-me}
+
+If you're studying subjects other than Computer Science (CS) at the University of Manchesetr, but have an interest in opportunities in Computing and AI, you can add yourself to the Wednesday Waggle mailing list at [bit.ly/waggle-me](https://bit.ly/waggle-me).^[1]
+
+## Employers: Add your vacancies etc {#employers}
+
+If you're an employer who'd like to include a vacancy, event or opportunity to the next newsletter, please fill in this form at [forms.cloud.microsoft/e/1y4XTERggU](https://forms.cloud.microsoft/e/1y4XTERggU)
+
+If you're interested in reaching a wider audience beyond Computer Science, see [employers.manchester.ac.uk](https://www.employers.manchester.ac.uk)
+
+## The Wednesday What? {#wtf}
+
+The Wednesday _What_? The Wednesday _Waggle_. Bees have been a [symbol of Manchester](https://en.wikipedia.org/wiki/Symbols_of_Manchester) since the industrial revolution, symbolising community (the hive) and industry (work ethic). Just like the [waggle dance](https://en.wikipedia.org/wiki/Waggle_dance) of bees tells the hive mind where the [nectar](https://en.wikipedia.org/wiki/Nectar), [pollen](https://en.wikipedia.org/wiki/Pollen) and other resources are located, this newsletter can help students like you find promising opportunities for investigation.
+
+
+[^1]: bit.ly links redirects to a Microsoft form requiring you to login using your UoM credentials.

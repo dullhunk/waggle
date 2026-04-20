@@ -1,0 +1,57 @@
+project:
+  type: website
+  title: "The University of Manchester"
+  execute-dir: project
+  output-dir: docs
+  render: 
+      - index.qmd
+
+
+website:
+  title: "The Wednesday Waggle 🐝"
+  search: false
+  # subtitle: "stuff"
+  site-url: https://waggle.cs.manchester.ac.uk
+  repo-url: https://github.com/UoMCS/waggle
+  #repo-actions: [edit, issue]
+  navbar:
+    logo: logo-university-of-manchester-allwhite.png
+    logo-alt: "University of Manchester logo"
+    background: "#fecd31" 
+    #left:
+      #- href: index.qmd
+      #  text: Home
+      #- about.qmd
+  page-footer:
+    left: Spreading the buzz for students every Wednesday since 2017 🐝
+    #center:
+    #  - text: "About"
+    #    href: about.qmd
+    right: From the  [Department of Computer Science ](https://www.cs.manchester.ac.uk) at the [Unversity of Manchester](https://www.manchester.ac.uk) 
+
+  #sidebar:
+  #  style: "docked"
+  #  search: true
+  #  contents:
+  #    - index.qmd
+  #page-navigation: true
+
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    # this is the right hand side
+    # toc: true 
+    include-in-header:
+      - text: | 
+            <script async src="https://plausible.io/js/pa-Im39h3cCVBvjjLEIozOsH.js"></script> <script> window.plausible=window.plausible||function(){(plausible.q=plausible.q||[]).push(arguments)},plausible.init=plausible.init||function(i){plausible.o=i||{}}; plausible.init() </script>
+
+callout-appearance: simple
+
+
+
+#date: today
+#date-format: iso
+
+# jupyter: julia-1.8
