@@ -3,7 +3,7 @@ title: "The Wednesday Waggle"
 subtitle: For opportunities in Computing and AI
 ---
 
-The Wednesday Waggle is an email newsletter published every Wednesday [during term time](https://www.manchester.ac.uk/about/key-dates/) summarising opportunities in Computing and AI for:
+The Wednesday Waggle is an email newsletter published every Wednesday [during term time](https://www.manchester.ac.uk/about/key-dates/) summarising jobs and other opportunities in Computing and AI for:
 
 * all undergraduate students (Bachelors) in Computer Science at the University of Manchester, circa 1000+ in total
 * all postgraduate taught (Masters) students in Computer Science at the University of Manchester, circa 240+ in total
@@ -15,13 +15,13 @@ The Waggle also gets published during non-teaching periods, although less freque
 
 ## Not studying CS? Add yourself to the mailing list {#waggle-me}
 
-If you're studying a subject other than Computer Science (CS) at the University of Manchester, but have an interest in opportunities in Computing and AI, you can add yourself to the Wednesday Waggle mailing list at [bit.ly/waggle-me](https://bit.ly/waggle-me).^[1]
+If you're studying a subject other than Computer Science (CS) at the University of Manchester, but have an interest in opportunities in Computing and AI, you can add yourself to the mailing list for the Wednesday Waggle at [bit.ly/waggle-me](https://bit.ly/waggle-me).^[1]
 
 ## Employers: Add your vacancies etc {#employers}
 
 If you're an employer who'd like to include a vacancy, event or opportunity to the next newsletter, tell us about it using this form: [forms.cloud.microsoft/e/1y4XTERggU](https://forms.cloud.microsoft/e/1y4XTERggU)
 
-If you're interested in reaching students beyond Computer Science, see [employers.manchester.ac.uk](https://www.employers.manchester.ac.uk)
+If you're interested in reaching students beyond the [Department of Computer Science](https://www.cs.manchester.ac.uk), see [employers.manchester.ac.uk](https://www.employers.manchester.ac.uk)
 
 ## The Wednesday What? {#wtf}
 
