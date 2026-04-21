@@ -3,12 +3,12 @@ title: "The Wednesday Waggle"
 subtitle: For opportunities in Computing and AI
 ---
 
-The Wednesday Waggle is an email newsleter published every Wedneseday [during term time](https://www.manchester.ac.uk/about/key-dates/) summarising opportunities in Computing and AI for:
+The Wednesday Waggle is an email newsletter published every Wedneseday [during term time](https://www.manchester.ac.uk/about/key-dates/) summarising opportunities in Computing and AI for:
 
 * all undergraduate students (Bachelors) in Computer Science at the University of Manchester, circa 1000+ in total
 * all postgraduate taught (Masters) students in Computer Science at the University of Manchester, circa 240+ in total
 
-The Waggle also gets published during non-teaching periods, although less frequently. So, if there is a career related event or a job opportunity you'd like to tell other students about via the next Waggle, tell us about it and we'll pass it on [bit.ly/waggle-it](https://bit.ly/waggle-it).[^1]
+The Waggle also gets published during non-teaching periods, although less frequently. Search your inbox for `Waggle`. If there is a career related event or a job opportunity you'd like to tell other students about via the next Waggle, tell us about it and we'll pass it on [bit.ly/waggle-it](https://bit.ly/waggle-it).[^1]
 
 ![Wednesday Waggle Bee artwork by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)](Wednesday_Waggle.png)
 
@@ -19,9 +19,9 @@ If you're studying a subject other than Computer Science (CS) at the University 
 
 ## Employers: Add your vacancies etc {#employers}
 
-If you're an employer who'd like to include a vacancy, event or opportunity to the next newsletter, please fill in this form at [forms.cloud.microsoft/e/1y4XTERggU](https://forms.cloud.microsoft/e/1y4XTERggU)
+If you're an employer who'd like to include a vacancy, event or opportunity to the next newsletter, tell us about it using this form: [forms.cloud.microsoft/e/1y4XTERggU](https://forms.cloud.microsoft/e/1y4XTERggU)
 
-If you're interested in reaching a wider audience beyond Computer Science, see [employers.manchester.ac.uk](https://www.employers.manchester.ac.uk)
+If you're interested in reaching students beyond Computer Science, see [employers.manchester.ac.uk](https://www.employers.manchester.ac.uk)
 
 ## The Wednesday What? {#wtf}
 
