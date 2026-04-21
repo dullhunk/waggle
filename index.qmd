@@ -8,7 +8,7 @@ The Wednesday Waggle is an email newsletter published every Wednesday [during te
 * all undergraduate students (Bachelors) in Computer Science at the University of Manchester, circa 1000+ in total
 * all postgraduate taught (Masters) students in Computer Science at the University of Manchester, circa 240+ in total
 
-The Waggle also gets published during non-teaching periods, although less frequently. Search your email inbox for `Waggle`. The newsletter is edited by [Duncan Hull](https://personalpages.manchester.ac.uk/staff/duncan.hull/), if there is a career related event or a job opportunity you'd like to tell other students about via the next Waggle, tell us about it and we'll pass it on [bit.ly/waggle-it](https://bit.ly/waggle-it).[^1]
+The newsletter is edited by [Duncan Hull](https://personalpages.manchester.ac.uk/staff/duncan.hull/) and is also published during non-teaching periods, although less frequently than term-time. Search your email inbox for `Waggle`. If there is a career related event or a job opportunity you'd like to tell other students about via the next Waggle, tell us about it and we'll pass it on [bit.ly/waggle-it](https://bit.ly/waggle-it).[^1]
 
 ![Wednesday Waggle Bee artwork by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)](Wednesday_Waggle.png)
 
