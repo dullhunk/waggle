@@ -5,17 +5,17 @@ subtitle: For opportunities in Computing and AI
 
 The Wednesday Waggle is an email newsleter published every Wedneseday [during term time](https://www.manchester.ac.uk/about/key-dates/) summarising opportunities in Computing and AI for:
 
-* all undergraduate (Bachelors) in Computer Science at the University of Manchester, circa 1000+ students
-* all postgraduate taught (Masters) students in Computer Science at the University of Manchester, circa 240+ students
+* all undergraduate students (Bachelors) in Computer Science at the University of Manchester, circa 1000+ in total
+* all postgraduate taught (Masters) students in Computer Science at the University of Manchester, circa 240+ in total
 
-Newsletters also get published during non-teaching periods, although less frequently. So, if there is a career related event or a job opportunity you'd like to tell other students about via the next Waggle, tell us about it and we'll pass it on [bit.ly/waggle-it](https://bit.ly/waggle-it).[^1]
+The Waggle also gets published during non-teaching periods, although less frequently. So, if there is a career related event or a job opportunity you'd like to tell other students about via the next Waggle, tell us about it and we'll pass it on [bit.ly/waggle-it](https://bit.ly/waggle-it).[^1]
 
 ![Wednesday Waggle Bee artwork by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)](Wednesday_Waggle.png)
 
 
 ## Not studying CS? Add yourself to the mailing list {#waggle-me}
 
-If you're studying a subject other than Computer Science (CS) at the University of Manchesterr, but have an interest in opportunities in Computing and AI, you can add yourself to the Wednesday Waggle mailing list at [bit.ly/waggle-me](https://bit.ly/waggle-me).^[1]
+If you're studying a subject other than Computer Science (CS) at the University of Manchester, but have an interest in opportunities in Computing and AI, you can add yourself to the Wednesday Waggle mailing list at [bit.ly/waggle-me](https://bit.ly/waggle-me).^[1]
 
 ## Employers: Add your vacancies etc {#employers}
 
